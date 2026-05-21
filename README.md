@@ -2,6 +2,8 @@
 
 Record a 5-second video. Get instant feedback on your exercise form.
 
+**Live:** [v0-ai-posture-coach-sakuraguoqis-projects.vercel.app](https://v0-ai-posture-coach-sakuraguoqis-projects.vercel.app)
+
 FormCoach uses TensorFlow.js MoveNet (client-side, no server needed) to detect body keypoints from your webcam and score your exercise technique across multiple dimensions.
 
 ## Supported Exercises
