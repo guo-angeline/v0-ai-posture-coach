@@ -6,6 +6,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  turbopack: {},
   // TensorFlow.js configuration
   webpack: (config, { isServer }) => {
     if (!isServer) {
